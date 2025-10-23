@@ -1,3 +1,4 @@
+![logo](https://github.com/Mohitvishwari/Mohitvishwari/blob/main/technology%20review.png)
 <h1 align="center">Hi 👋, I'm mohit vishwari</h1>
 <h3 align="center">A passionate data science from India</h3>
 <img width="400" height="430" alt="image" src="https://github.com/user-attachments/assets/2e32f3f2-2628-496d-b452-a594bf61d639" />
